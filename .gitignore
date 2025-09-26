@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+
+# Telethon session files
+*.session
+*.session-journal
+
+# Data exports
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db

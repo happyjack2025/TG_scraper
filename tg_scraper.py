@@ -14,8 +14,8 @@ from telethon.tl.types import MessageEntityUrl, MessageEntityTextUrl, DocumentAt
 
 # ======================= USER CONFIG =======================
 
-api_id = 20937723
-api_hash = '4871cc2e839a0984d4b6f82ea3c3ca01'
+api_id = 12345
+api_hash = '1234ccc222ddd333zzz'
 
 PlatformName = 'Telegram'
 SESSION_NAME = 'session_scraper'
